@@ -1,16 +1,19 @@
 {
   "name": "iracing-pdf-extract",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Parse PDF Schedule iRacing",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "iRacing",
+    "Schedule",
+    "Parse"
+  ],
+  "author": "Omar Marin Pastor",
   "license": "ISC",
   "dependencies": {
-    "core-js": "^3.30.1",
     "pdf-text-extract": "github:omarmpastor/pdf-text-extract",
     "typescript": "^5.0.4"
   },

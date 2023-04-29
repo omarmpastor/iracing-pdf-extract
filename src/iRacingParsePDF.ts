@@ -1,4 +1,3 @@
-import 'core-js';
 import { PDFDocument, PDFItem, PDFLine } from 'pdf-text-extract';
 import { iRacingSchedule, iRacingDiscipline, iRacingSerie, iRacingWeek } from './iRacingSchedule';
 
