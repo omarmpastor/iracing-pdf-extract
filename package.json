@@ -16,8 +16,5 @@
   "dependencies": {
     "pdf-text-extract": "github:omarmpastor/pdf-text-extract",
     "typescript": "^5.0.4"
-  },
-  "devDependencies": {
-    "@types/core-js": "^2.5.5"
   }
 }

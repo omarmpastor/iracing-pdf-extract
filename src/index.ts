@@ -2,8 +2,8 @@ import { parsePDF } from 'pdf-text-extract'
 import iracingParse from './iRacingParsePDF'
 import { iRacingSchedule, iRacingDiscipline, iRacingSerie, iRacingWeek } from './iRacingSchedule'
 
-const parseIRacingSchedule = async (pdfPath : string) => {
-    const pdf = await parsePDF(pdfPath);
+const parseIRacingSchedule = async (pdfArrayBuffer : ArrayBuffer) => {
+    const pdf = await parsePDF(pdfArrayBuffer);
     return iracingParse(pdf);
 };
 
