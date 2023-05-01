@@ -14,7 +14,7 @@
   "author": "Omar Marin Pastor",
   "license": "ISC",
   "dependencies": {
-    "pdf-text-extract": "github:omarmpastor/pdf-text-extract",
+    "pdf-text-extract": "^1.5.0",
     "typescript": "^5.0.4"
   }
 }
