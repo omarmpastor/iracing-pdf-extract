@@ -20,6 +20,7 @@ class iRacingSerie {
   license: string;
   cars: string[];
   weeks: iRacingWeek[];
+  bookmarks: boolean;
 
   constructor(name: string, groupSeries: string) {
     this.name = name;
@@ -27,6 +28,7 @@ class iRacingSerie {
     this.license = '';
     this.cars = [];
     this.weeks = [];
+    this.bookmarks = false;
   }
 }
 

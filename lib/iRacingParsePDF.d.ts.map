@@ -1,1 +1,1 @@
-{"version":3,"file":"iRacingParsePDF.d.ts","sourceRoot":"","sources":["../src/iRacingParsePDF.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAoB,MAAM,kBAAkB,CAAC;AACjE,OAAO,EAAE,eAAe,EAAgD,MAAM,mBAAmB,CAAC;AAqJlG,QAAA,MAAM,QAAQ,QAAU,WAAW,KAAI,eAItC,CAAC;AAEF,eAAe,QAAQ,CAAC"}
+{"version":3,"file":"iRacingParsePDF.d.ts","sourceRoot":"","sources":["../src/iRacingParsePDF.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAA6B,MAAM,kBAAkB,CAAC;AAC1E,OAAO,EAAE,eAAe,EAAgD,MAAM,mBAAmB,CAAC;AAqKlG,QAAA,MAAM,QAAQ,QAAS,WAAW,KAAG,eAIpC,CAAC;AAEF,eAAe,QAAQ,CAAC"}
