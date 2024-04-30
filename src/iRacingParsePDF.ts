@@ -42,7 +42,7 @@ const buildScheduleFromIndex = (pdf: any) => {
     }
   }
 
-  if (discipline != null) disciplines.push(discipline);
+  //if (discipline != null) disciplines.push(discipline);
 
   return new iRacingSchedule(disciplines);
 };

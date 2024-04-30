@@ -12,7 +12,6 @@ declare class iRacingSerie {
     license: string;
     cars: string[];
     weeks: iRacingWeek[];
-    bookmarks: boolean;
     constructor(name: string, groupSeries: string);
 }
 declare class iRacingDiscipline {
